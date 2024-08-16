@@ -19,7 +19,7 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Table(name = "user")// Removed the extra space here
+@Table(name = "user_table")// Removed the extra space here
 
 public class User implements UserDetails {
 
